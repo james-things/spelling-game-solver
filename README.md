@@ -16,4 +16,4 @@ A simple Python solver for a popular bee-themed spelling game. To use, install P
 
 ### In Use:
 
-![demonstration.png](C:\Repos\spelling-game-solver\demonstration.png)
+![demonstration.png](demonstration.png)
